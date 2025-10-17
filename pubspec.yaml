@@ -2,6 +2,8 @@ name: chafon_h906_rfid
 description: Flutter plugin for Chafon H906 RFID reader (Android OTG)
 version: 0.0.1
 homepage: https://github.com/rashidniyazov/chafon_h906_rfid
+repository: https://github.com/rashidniyazov/chafon_h906_rfid
+issue_tracker: https://github.com/rashidniyazov/chafon_h906_rfid/issues
 
 environment:
   sdk: ^3.8.1
