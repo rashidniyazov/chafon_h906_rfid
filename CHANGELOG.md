@@ -1,5 +1,5 @@
 cat > CHANGELOG.md <<'EOF'
-## 0.1.0
+## 0.0.1
 - First public release of `chafon_h906_rfid`
 - Android (on-device UART/OTG) support
 - Connect / Disconnect
